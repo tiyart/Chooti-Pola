@@ -143,15 +143,15 @@ footer {
 /* Mobile-specific adjustments */
 @media (max-width: 767px) {
   .hero {
-    height: 300px; /* Adjust height for mobile */
+    height: 300px; 
   }
 
   .hero-text h1 {
-    font-size: 1.5em; /* Adjust title font size */
+    font-size: 1.5em;
   }
 
   .hero-text p {
-    font-size: 1em; /* Adjust paragraph font size */
+    font-size: 1.2em; 
   }
 
   .overlay {
